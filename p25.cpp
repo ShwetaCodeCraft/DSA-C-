@@ -1,4 +1,4 @@
-// sorting -3
+// sorting-3
 //short the given array using insertion sort
 
 #include<bits/stdc++.h>
@@ -13,7 +13,7 @@ void insertionSort(int arr[], int n){
         }
     }
 }    
-
+//----
 int main(){
     int n;
     cin>>n;
