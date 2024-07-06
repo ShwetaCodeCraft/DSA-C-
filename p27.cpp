@@ -1,5 +1,5 @@
 // sorting-5
-//short the given array using recursive bubble sort
+//short the given array using recursive Bubble sort
 
 #include<bits/stdc++.h>
 using namespace std;
