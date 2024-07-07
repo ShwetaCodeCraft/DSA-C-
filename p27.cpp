@@ -1,5 +1,11 @@
 // sorting-5
-//short the given array using recursive Bubble sort
+//short the given array using recursive Bubble Sort
+
+// git init
+// git add .
+// git add -A
+// git commit -m "temp"
+// git push origin master
 
 #include<bits/stdc++.h>
 using namespace std;
