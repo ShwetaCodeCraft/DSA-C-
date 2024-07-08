@@ -1,5 +1,5 @@
 // sorting-6
-//short the given array using recursive Insertion Sort
+//short the given array using recursive Insertion sort
 
 #include<bits/stdc++.h>
 using namespace std;
