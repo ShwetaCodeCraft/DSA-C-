@@ -1,5 +1,5 @@
 // sorting-5
-//short the given array using recursive Bubble sort
+//short the given array using recursive Bubble Sort
 
 // git init
 // git add .
