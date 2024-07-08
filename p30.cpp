@@ -1,5 +1,5 @@
 // sorting-7
-//short the given array using Quick sort
+//short the given array using Quick Sort
 #include <iostream>
 using namespace std;
 
