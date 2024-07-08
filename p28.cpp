@@ -1,6 +1,10 @@
 // sorting-6
 //short the given array using recursive Insertion sort
-
+// git init
+// git add .
+// git add -A
+// git commit -m "sorting-6(Insertion sort)"
+// git push origin master
 #include<bits/stdc++.h>
 using namespace std;
 
