@@ -8,7 +8,7 @@
 // git push origin master
 
 #include <bits/stdc++.h>
-using namespace std;
+using  namespace std;
     int print2largest(vector<int> &arr) {
         int slargest =-1;
         int largest = arr[0];
