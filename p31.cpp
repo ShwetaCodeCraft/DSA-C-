@@ -1,11 +1,6 @@
 //Arrays -2
 //second Largest element in an array
 
-// git init
-// git add .
-// git add -A
-// git commit -m "arr-2(secongLargest elem)"
-// git push origin master
 
 #include <bits/stdc++.h>
 using  namespace std;
