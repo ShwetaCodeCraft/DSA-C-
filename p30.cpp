@@ -6,7 +6,7 @@ using namespace std;
 // git init
 // git add .
 // git add -A
-// git commit -m "arr-1(Largest elem)"
+// git commit -m "arr-3(check if sorted)"
 // git push origin master
 int largest(const vector<int> &arr, int n) {
     int largest = arr[0];
